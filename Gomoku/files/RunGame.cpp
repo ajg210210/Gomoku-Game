@@ -1,7 +1,6 @@
-// Name: Lab3.cpp 
-// Author: Young Lin - chih-yang.l@wustl.edu; Ajay Gupta - a.v.gupta@wustl.edu
-// Function : This file contains the 'main' function. Program execution begins and ends there.
-// It also defines the usage function, which prints the usage function. 
+
+// This file contains the 'main' function. Program execution begins and ends there.
+// It also defines and prints the usage function. 
 
 #include <iostream>
 #include "GameBase.h"

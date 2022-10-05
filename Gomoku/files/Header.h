@@ -1,5 +1,4 @@
-// Name: Header.h
-// Author: Young Lin - chih-yang.l@wustl.edu; Ajay Gupta - a.v.gupta@wustl.edu
+
 // Function : This file contains the declaration of the usage function. 
 // It also includes the enum of the essential array indicies, different successes/failures, 
 // and size of the longest_string_length for both games. 

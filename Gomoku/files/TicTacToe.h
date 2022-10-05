@@ -1,5 +1,4 @@
-// Name: TicTacToe.h
-// Author: Young Lin - chih-yang.l@wustl.edu; Ajay Gupta - a.v.gupta@wustl.edu
+
 // Function : This file contains the declaration of the TicTacToeGame class. It includes the functions and variables
 // associated with the class. 
 // It also includes the enum of players X and O. 

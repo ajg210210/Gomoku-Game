@@ -1,5 +1,4 @@
-// Name: TicTacToe.cpp
-// Author: Young Lin - chih-yang.l@wustl.edu; Ajay Gupta - a.v.gupta@wustl.edu
+
 // Function : This file contains the definition of the output operator, done, draw, turn, and print functions. 
 
 #include"Header.h"
